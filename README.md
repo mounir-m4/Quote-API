@@ -24,12 +24,12 @@
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-- User can search for any github user 
-- User can see plenty of informations associated  with matched profile
-- User can view the github user account 
+- User can get new quote on each click  
+- User can share any quote on twitter
+
   
 ### Links
-- Live Site URL: [https://flyo-landing-page-main.netlify.app]()
+- Live Site URL: [https://quote-api-main.netlify.app/]()
 
 ### Demo
 
@@ -38,8 +38,8 @@ Users should be able to:
 ### Built with
 
 - Semantic **HTML5** markup
-- build UI with **css**
-- Asynchronous JavaScript ES6+
+- build UI with **CSS**
+- Asynchronous JavaScript **ES6+**
   
 ### What I learned
 
