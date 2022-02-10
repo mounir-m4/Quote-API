@@ -29,7 +29,7 @@ Users should be able to:
 
   
 ### Links
-- Live Site URL: [https://quote-api-main.netlify.app/]()
+- Live Site URL: https://quote-api-main.netlify.app
 
 ### Demo
 
